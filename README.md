@@ -15,6 +15,13 @@ contains the starter files for the Python Simplified tutorial on Youtube:
 https://youtu.be/iJGvYBH9mcY
 <br>
 <br>
+<b>ImageExtracting_bot</b>
+<br>
+contains a 100% automated code for extracting Instagram <b>Images</b>
+<br>
+as well as ERROR FIXES and WIDER FUNCTIONALITY
+<br>
+<br>
 <b>Commenting_bot</b>:
 <br>
 contains a 100% automated code for commenting on all photos from a certain hashtag
