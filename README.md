@@ -5,7 +5,7 @@ This Repository contains Notebooks with different Web Scraping examples
 <br>
 <b>WebscrapingInstagram_completeNotebook</b>: 
 <br>
-contains a 100% automated code for extracting Instagram Thumbnails
+contains a 90% automated code for extracting Instagram <b>Thumbnails</b>
 <br>
 <br>
 <b>WebscrapingInstagram_starterNotebook</b>
