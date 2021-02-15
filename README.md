@@ -1,7 +1,23 @@
-# WebscrapingInstagram
-
-# with Selenium
-<p>
-This is a starter notebook, it only contains the module imports and the link to download Chrome Driver.
+# WebscrapingInstagram with Selenium
 <br>
-The complete code will be uploaded next week (along with a Medium publication)
+This Repository contains Notebooks with different Web Scraping examples
+<br>
+<b>WebscrapingInstagram_completeNotebook</b>: 
+<br>
+contains a 100% automated code for extracting Instagram Thumbnails
+<br>
+<b>WebscrapingInstagram_starterNotebook</b>
+<br>
+contains the starter files for the Python Simplified tutorial on Youtube:
+<br>
+https://youtu.be/iJGvYBH9mcY
+<br>
+<b>Commenting_bot</b>:
+<br>
+contains a 100% automated code for commenting on all photos from a certain hashtag
+<br>
+presented live with We Are Growth Hackers:
+<br>
+https://youtu.be/XnEgVZsZgco
+
+
