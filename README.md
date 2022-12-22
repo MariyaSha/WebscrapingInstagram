@@ -9,7 +9,7 @@ contains the updated Selenium commands, relevant to December 2022
 <br>
 Selenium has adjusted all commands of the kind:
 
-```driver.find_elements_by_tagname("input")```
+```driver.find_elements_by_tag_name("input")```
 
 to
 
