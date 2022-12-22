@@ -3,6 +3,21 @@
 This Repository contains Notebooks with different Web Scraping examples
 <br>
 <br>
+<b>WebscrapingInstagram_completeUpdated_DEC2022</b>: 
+<br>
+contains the updated Selenium commands, relevant to December 2022
+<br>
+Selenium has adjusted all commands of the kind:
+<br>
+`driver.find_elements_by_tagname("input")`
+<br>
+to
+<br>
+`driver.find_elements(By.TAG_NAME, "input")`
+<br>
+PLEASE NOTE: the notebooks below are not updated yet!!!
+<br>
+<br>
 <b>WebscrapingInstagram_completeNotebook</b>: 
 <br>
 contains a 90% automated code for extracting Instagram <b>Thumbnails</b>
