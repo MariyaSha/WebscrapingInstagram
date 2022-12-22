@@ -8,9 +8,13 @@ This Repository contains Notebooks with different Web Scraping examples
 contains the updated Selenium commands, relevant to December 2022
 <br>
 Selenium has adjusted all commands of the kind:
+
 ```driver.find_elements_by_tagname("input")```
+
 to
+
 ```driver.find_elements(By.TAG_NAME, "input")```
+
 PLEASE NOTE: the notebooks below are not updated yet!!!
 <br>
 <br>
