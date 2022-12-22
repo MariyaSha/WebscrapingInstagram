@@ -1,9 +1,8 @@
 # WebscrapingInstagram with Selenium
 <br>
-This Repository contains Notebooks with different Web Scraping examples
+This Repository contains a collection of notebooks related to Instagram web scraping and automation.
 <br>
 <img src="https://user-images.githubusercontent.com/32107652/209244834-8f60b608-1584-44f0-beb5-fa8b2310b085.jpeg" width=500>
-""
 
 ## WebscrapingInstagram_completeUpdated_DEC2022 
 
