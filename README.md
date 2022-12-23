@@ -19,7 +19,7 @@ were replaced with commands of that syntax:
 
 <b>PLEASE NOTE:</b> the notebooks below are not updated yet!!!
 
--
+## OLD VERSIONS
 
 <b>WebscrapingInstagram_completeNotebook</b>: 
 <br>
