@@ -4,21 +4,22 @@ This Repository contains a collection of notebooks related to Instagram web scra
 <br>
 <img src="https://user-images.githubusercontent.com/32107652/209244834-8f60b608-1584-44f0-beb5-fa8b2310b085.jpeg" width=500>
 
-## WebscrapingInstagram_completeUpdated_DEC2022 
-
-contains the updated Selenium commands, relevant to December 2022
+## CURRENT VERSION
+Please refer to <b>WebscrapingInstagram_completeUpdated_DEC2022.ipynb</b> generated and tested on December 22th, 2022.
 <br>
-Selenium has adjusted all commands of the kind:
+This file showcases the updated Selenium commands, which have changed from the moment of filming my <a href="https://youtu.be/iJGvYBH9mcY" target="_blank">YouTube tutorial</a> and now.
+<br>
+FYI, in the new version of Selenium, commands of this syntax:
 
 ```driver.find_elements_by_tag_name("input")```
 
-to
+were replaced with commands of that syntax:
 
 ```driver.find_elements(By.TAG_NAME, "input")```
 
 <b>PLEASE NOTE:</b> the notebooks below are not updated yet!!!
 
----
+-
 
 <b>WebscrapingInstagram_completeNotebook</b>: 
 <br>
