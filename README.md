@@ -22,33 +22,25 @@ were replaced with commands of that syntax:
 ## OLD VERSIONS
 
 - <b>WebscrapingInstagram_completeNotebook</b>: 
-
   contained 90% automated code for extracting Instagram <b>Thumbnails</b>
-<br>
+  <br>
   it was working great 2 years ago, now it must be adjusted to the new Selenium syntax.
-<br>
-<br>
+
 - <b>WebscrapingInstagram_starterNotebook</b>
   contains the starter files for the Python Simplified tutorial on Youtube:
-<br>
+  <br>
   https://youtu.be/iJGvYBH9mcY
-<br>
-<br>
+
 - <b>ImageExtracting_bot</b>
-
   contains a 100% automated code for extracting Instagram <b>Images</b>
-<br>
+  <br>
   as well as ERROR FIXES and WIDER FUNCTIONALITY
-<br>
+  <br>
   must be adjusted to the new Selenium syntax.
-<br>
-<br>
-- <b>Commenting_bot</b>
 
-  contains a 100% automated code for commenting on all photos from a certain hashtag
-<br>
-  presented live with We Are Growth Hackers:
-<br>
+- <b>Commenting_bot</b>
+  contains a 100% automated code for commenting on all photos from a certain hashtag presented live with We Are Growth Hackers:
+  <br>
   https://youtu.be/XnEgVZsZgco
 
 
