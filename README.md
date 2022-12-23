@@ -26,19 +26,19 @@ were replaced with commands of that syntax:
   <br>
   it was working great 2 years ago, now it must be adjusted to the new Selenium syntax.
 
-- <b>WebscrapingInstagram_starterNotebook</b>
+- <b>WebscrapingInstagram_starterNotebook:</b>
   contains the starter files for the Python Simplified tutorial on Youtube:
   <br>
   https://youtu.be/iJGvYBH9mcY
 
-- <b>ImageExtracting_bot</b>
+- <b>ImageExtracting_bot:</b>
   contains a 100% automated code for extracting Instagram <b>Images</b>
   <br>
   as well as ERROR FIXES and WIDER FUNCTIONALITY
   <br>
   must be adjusted to the new Selenium syntax.
 
-- <b>Commenting_bot</b>
+- <b>Commenting_bot:</b>
   contains a 100% automated code for commenting on all photos from a certain hashtag presented live with We Are Growth Hackers:
   <br>
   https://youtu.be/XnEgVZsZgco
