@@ -29,7 +29,6 @@ were replaced with commands of that syntax:
 <br>
 <br>
 - <b>WebscrapingInstagram_starterNotebook</b>
-
   contains the starter files for the Python Simplified tutorial on Youtube:
 <br>
   https://youtu.be/iJGvYBH9mcY
