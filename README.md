@@ -23,7 +23,9 @@ were replaced with commands of that syntax:
 
 <b>WebscrapingInstagram_completeNotebook</b>: 
 <br>
-contains a 90% automated code for extracting Instagram <b>Thumbnails</b>
+contained 90% automated code for extracting Instagram <b>Thumbnails</b>
+<br>
+it was working great 2 years ago, now it must be adjusted to the new Selenium syntax.
 <br>
 <br>
 <b>WebscrapingInstagram_starterNotebook</b>
@@ -38,6 +40,8 @@ https://youtu.be/iJGvYBH9mcY
 contains a 100% automated code for extracting Instagram <b>Images</b>
 <br>
 as well as ERROR FIXES and WIDER FUNCTIONALITY
+<br>
+must be adjusted to the new Selenium syntax.
 <br>
 <br>
 <b>Commenting_bot</b>:
