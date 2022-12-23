@@ -3,9 +3,7 @@
 This Repository contains a collection of notebooks related to Instagram web scraping and automation.
 <br>
 <br>
-<center>
 <img src="https://user-images.githubusercontent.com/32107652/209244834-8f60b608-1584-44f0-beb5-fa8b2310b085.jpeg" width=500>
-</center>
 
 ## CURRENT VERSION
 Please refer to <b>WebscrapingInstagram_completeUpdated_DEC2022.ipynb</b> generated and tested on December 22th, 2022.
