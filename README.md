@@ -25,9 +25,9 @@ Please refer to <b>ImageExtracting_Updated-DEC2022.ipynb</b> generated and teste
 This file includes new Selenium syntax, Fixes to scrolling issues and a more efficient keyword search.
 <br>
 
-<b>PLEASE NOTE:</b> the notebooks below are not updated yet!!!
-
 ## OLD VERSIONS
+
+<b>PLEASE NOTE:</b> the notebooks below were not updated to the current Selenium syntax!!!
 
 - <b>WebscrapingInstagram_completeNotebook</b>: 
   contained 90% automated code for extracting Instagram <b>Thumbnails</b>
